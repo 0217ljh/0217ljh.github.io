@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Contact Information
+======
+* Name: Jiheng Liang
+* Affiliation: School of physics,Sun Yat-sen University, Guangzhou 510275, China
+* E-mail Address: Liangjh65@mail2.sysu.edu.cn
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

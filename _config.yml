@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "front photo.png"
   name             : "Jiheng Liang"
   pronouns         : # example: "she/her"  
   bio              : "Master student, Sysu, China"
